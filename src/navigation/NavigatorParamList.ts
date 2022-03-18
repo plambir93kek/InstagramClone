@@ -1,0 +1,1 @@
+export type StackParamList = {Comments: {postId: string}, Home: undefined};
